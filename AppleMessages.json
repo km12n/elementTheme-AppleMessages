@@ -1,6 +1,6 @@
 {
-        "name": "AppleMessagesLight",
-        "is_dark": true,
+        "name": "Apple Messages Light",
+        "is_dark": false,
         "colors": {
           "accent-color": "#007aff",
           "primary-color": "#007aff",
